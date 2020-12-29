@@ -1,2 +1,5 @@
 ## WEATHER APP IN DJANGO USING OPENWEATHER APIs
 
+<hr>
+
+![](READMEimg/weather.PNG)
